@@ -1,0 +1,27 @@
+---
+title: "NOTAS"
+layout: post
+date: 2019-09-27 20:27
+tag: Python, Django, Materialize CSS
+read-time: false
+image: /assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Notes sharing platform for millenials."
+jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://raw.githubusercontent.com/WebpageFX/emoji-cheat-sheet.com/master/public/graphics/emojis/books.png" height="20" width="20" align="absmiddle">'
+author: Aadeshmirajkar
+externalLink: false
+---
+
+NOTAS is note sharing platform for millenials which is implemented using HTML, CSS, and Django which is a Python-based free and open-source web framework, which follows the model-template-view architectural pattern.
+
+
+---
+
+NOTAS is Web application which is implemented to make notes sharing hassle free.
+
+---
+Source Code : [Github](https://github.com/captainaadesh/Notas) <br>
+Technology Stack : HTML, CSS, JS, Materialize framework, Python, Django
+
