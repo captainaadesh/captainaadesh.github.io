@@ -21,8 +21,7 @@ fun for me.</p>
 
 <p>My most of the time goes into <a target="_blank" href="https://github.com/captainaadesh">coding</a>,
 <a target="_blank" href="https://www.goodreads.com/user/show/80093512-aadesh-mirajkar">reading books</a>,
-breaking things(for good reasons though) and completing some awesome
-<a target="_blank" href="https://trello.com/b/F3ew77F4/ossu-v7">MOOCs</a>.</p>
+breaking things(for good reasons though).
 
 <p> The best way to connect with me is by shooting me an <a href="mailto:mirajkaraadesh@gmail.com">email</a>. My public key is <a target="_blank" href="https://keybase.io/aadesh">DAAE 13D6 AED4 2A8B</a>. Do it without thinking twice. I love socializing.</p>
 
