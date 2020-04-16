@@ -8,7 +8,7 @@ image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "app based on encryption"
+description: "web app based on encryption"
 jemoji: '<img class="emoji" title=":closed_lock_with_key:" alt=":closed_lock_with_key:" src="https://raw.githubusercontent.com/WebpageFX/emoji-cheat-sheet.com/master/public/graphics/emojis/closed_lock_with_key.png" height="20" width="20" align="absmiddle">'
 author: Aadeshmirajkar
 externalLink: false
