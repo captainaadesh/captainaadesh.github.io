@@ -2,7 +2,7 @@
 title: "Easy Crypto"
 layout: post
 date: 2020-02-14 00:15
-tag: Cryptography, Python, cipher-algorithms
+tag: Cryptography
 read-time: false
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false

@@ -2,7 +2,7 @@
 title: "Movie Booking Management System"
 layout: post
 date: 2019-03-10 11:57
-tag: C++, OOPs, File Handling
+tag: File Handling
 read-time: false
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false

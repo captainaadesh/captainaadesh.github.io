@@ -2,7 +2,7 @@
 title: "NOTAS"
 layout: post
 date: 2019-09-27 20:27
-tag: Python, Django, Materialize CSS
+tag: Django
 read-time: false
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: false
