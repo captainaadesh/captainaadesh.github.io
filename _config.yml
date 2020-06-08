@@ -3,7 +3,7 @@ name: Aadesh Mirajkar
 bio: A nerdy brat creating magic through code in my own utopian world.
 
 # twitter summary info
-description: Aadesh Mirajkar's Personal blog
+description: Aadesh's Personal blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -26,8 +26,6 @@ highlighter: rouge
 # analytics-piwik-id: 1
 # google_verify:
 
-# if you don't want comments in your posts, set to false
-disqus: aadeshmirajkar
 
 # if you don't have any of social below, comment the line
 facebook: captainaadesh

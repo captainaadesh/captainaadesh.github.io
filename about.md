@@ -17,6 +17,8 @@ in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharasht
 
 <p> Apart from programming I have a passion for photography and I love travelling and <a target="_blank" href="https://www.goodreads.com/user/show/80093512-aadesh-mirajkar">reading books</a>.
 
+<h2>CONTACT ME</h2>
+
 <p> Write me an <a href="mailto:mirajkaraadesh@gmail.com">email</a> for quick response. My public key is <a target="_blank" href="https://keybase.io/aadesh">DAAE 13D6 AED4 2A8B</a>. Do it without thinking twice. I love to make connections with right people.</p>
 
 <h2>STALK ME!</h2>
