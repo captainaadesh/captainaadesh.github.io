@@ -3,12 +3,12 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<center><a target="_blank" href="">Download Resume</a></center>
+<center><a target="_blank" href="https://drive.google.com/file/d/1EGRyBoYXU073eVd-PsBMVUIZnfIEUdtI/view?usp=sharing">Resume</a></center>
 <hr/>
 <h6><b>AVID READER | TECHNOPHILE | INTROVERT | PYTHON AFICIONADO | TECH ENTREPRENEUR |  SHUTTERBUG | MELOPHILE</b></h6>
 <hr/>
-<h3>Hi,</h3>
-<p>Thank you for stumbling upon my little space on the web. <br> I am <strong>Aadesh Mirajkar</strong>. Currently I am a final year undergrad at <a target="_blank" href="http://ghrcem.raisoni.net">GHRCEM, Pune.</a> I am doing major in Computer Science. Basically, I am from <a target="_blank" href="https://en.wikipedia.org/wiki/Latur">Latur</a> situated 
+<h3>Hi,👋</h3>
+<p>Thank you for stumbling upon my little space on the internet. <br> I am <strong>Aadesh Mirajkar</strong>. Currently I am a final year undergrad at <a target="_blank" href="http://ghrcem.raisoni.net">GHRCEM, Pune.</a> I am doing major in Computer Science. Basically, I am from <a target="_blank" href="https://en.wikipedia.org/wiki/Latur">Latur</a> situated 
 in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra, India</a>. My passion is creating full stack web applications while my interest lies in Blockchain and Cryptography. I am huge fan of Python language and love to give back to the Python community.</p><p>I am kind of a minimalist person who loves keeping things very simple. I like things which I can see or feel, that's why I love <a href="https://github.com/captainaadesh">writing codes</a> because I can see it happening.</p>
 
 <h4>I really believe in Linus Torvalds thought...</h4>
