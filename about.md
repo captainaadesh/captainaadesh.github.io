@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<center><a target="_blank" href="https://drive.google.com/file/d/1EdHwlbUroIaL_GhFuJCsrSLXrE2m4Q2F/view?usp=sharing">Resume</a></center>
+<center><a target="_blank" href="https://github.com/captainaadesh/Resume/blob/master/aadesh_resume.pdf">Resume</a></center>
 <hr/>
 <h6><b>AVID READER | TECHNOPHILE | INTROVERT | PYTHON AFICIONADO | TECH ENTREPRENEUR |  SHUTTERBUG | MELOPHILE</b></h6>
 <hr/>
