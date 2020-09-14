@@ -9,7 +9,7 @@ layout: page
 <hr/>
 <h3>Hi,👋</h3>
 <p>Thank you for visiting my website. <br> I am <strong>Aadesh Mirajkar</strong>. Currently I am a final year undergrad at <a target="_blank" href="http://ghrcem.raisoni.net">GHRCEM, Pune.</a> I am doing major in Computer Science. Basically, I am from <a target="_blank" href="https://en.wikipedia.org/wiki/Latur">Latur</a> situated 
-in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra, India</a>. My passion is creating full stack web applications while my interest lies in Product Management, DevOps and Blockchain. I am huge fan of Python language and love to give back to the Python community.</p><p>I am kind of a minimalist person who loves keeping things very simple. I like things which I can see or feel, that's why I love <a href="https://github.com/captainaadesh">writing codes</a> because I can see it happening.</p>
+in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra, India</a>. My passion is creating full stack web applications while my interest lies in Product Management, DevOps and Blockchain. </p><p>I am kind of a minimalist person who loves keeping things very simple. I like things which I can see or feel, that's why I love <a href="https://github.com/captainaadesh">writing codes</a> because I can see it happening.</p>
 
 <h4>I really believe in <a target="_blank" href="https://en.wikipedia.org/wiki/Reed_Hastings">Reed Hastings</a> thought...</h4>
 <span class="evidence"><i> Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.
