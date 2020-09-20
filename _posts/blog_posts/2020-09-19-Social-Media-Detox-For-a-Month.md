@@ -29,7 +29,7 @@ One study showed that many millennials were elected to receive negative simulati
 ---
 What is the reason for this? Your phone can make you feel connected, less alone and tries to fill the void in your mind and because of that, it’s a massive time killer and productivity hinder.
 <br><br>
-But was that just me rationalizing my addiction? Did I Actually think that by stepping completely away from social media my entire life would fall apart? But here is what ended up happening. After a few days, I lost my drive to check on my social media accounts and stopped thinking about it any more. 
+But was that just me rationalizing my addiction? Did I actually think that by stepping completely away from social media my entire life would fall apart? But here is what ended up happening. After a few days, I lost my drive to check on my social media accounts and stopped thinking about it any more. 
 Sometimes I grabbed my phone without even thinking, unlock it and start to swipe through the screens looking for something to preoccupy my mind. Then I suddenly realized that I had deleted all my social apps.
 <br><br>
 A lot of time we think we just simply don’t have enough time to do it when in fact, maybe it’s our priorities that aren’t really in check. Maybe we need to think about where we’re spending our time to begin with, like social media. Once you start to identify the things that you value in your life you start to get rid of those distractions. For me, it’s social media. Another lesson, There is a sense of clarity that you get when you take a step away from the compulsive checking. For some reason we have convinced ourselves that it is important and there is <b>FOMO(Fear Of Missing Out)</b> in each one of us. But once I got connected again, I kind of realized one simple truth. I did not miss a thing.
@@ -41,7 +41,7 @@ that quotes - <br>
 
 ---
 <h2>Final Verdict</h2>
-Social Media has the potential to control our thoughts and it is eradicating intellectual individualism from the each one of us.
+Social Media has the potential to control our thoughts and it is eradicating intellectual individualism from each one of us.
 
 After a month of social media detoxification I am not so sure I want to spend my time and energy on social media apps anymore.
 
