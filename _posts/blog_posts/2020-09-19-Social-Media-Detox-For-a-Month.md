@@ -19,7 +19,7 @@ Few questions covered my mind: What benefits could you receive from stepping dow
 ---
 
 <h2>Here is what I experienced</h2>
-The First few days were the most  challenging. I was so sure that without taking extreme measures I would get back to my old routine and check my phone frequently throughout the day. So I deleted all my social media apps from my phone and laptop to build up some friction. Soon I realised that it wasn't the content that I was addicted to. It wasn't likes, friend requests or DM's. It was the expectation of what could be. Maybe someone would have sent me a follow request or maybe someone tweeted at me. So I knew I had to maintain some distance for a while. I committed to leaving my phone in the other room while I was working and whenever possible I kept it at home while I left the house. After a week, I stopped flinching for my phone and it no longer felt weird to leave home without it. There are a number of reasons why one might consider quitting social media. The side effects are a little bit different for each one of us. Some people find that apps like Instagram put them into a COMPARISON MODE by constantly keeping an eye on what other people have, you instinctively want it as well. While others are addicted to the FEEDBACK and ATTENTION. 
+The first few days were the most  challenging. I was so sure that without taking extreme measures I would get back to my old routine and check my phone frequently throughout the day. So I deleted all my social media apps from my phone and laptop to build up some friction. Soon I realised that it wasn't the content that I was addicted to. It wasn't likes, friend requests or DM's. It was the expectation of what could be. Maybe someone would have sent me a follow request or maybe someone tweeted at me. So I knew I had to maintain some distance for a while. I committed to leaving my phone in the other room while I was working and whenever possible I kept it at home while I left the house. After a week, I stopped flinching for my phone and it no longer felt weird to leave home without it. There are a number of reasons why one might consider quitting social media. The side effects are a little bit different for each one of us. Some people find that apps like Instagram put them into a COMPARISON MODE by constantly keeping an eye on what other people have, you instinctively want it as well. While others are addicted to the FEEDBACK and ATTENTION. 
 
 ---
 
@@ -36,7 +36,7 @@ A lot of time we think we just simply don’t have enough time to do it when in 
 <br><br>
 Recently I watched a documentary on Netflix called <b>"The Social Dilemma"</b>
 that quotes - <br>
-<span class="evidence"><i><b>“THE TECHNOLOGY THAT CONEECTS US ALSO CONTROLS US”.
+<span class="evidence"><i><b>“THE TECHNOLOGY THAT CONNECTS US ALSO CONTROLS US”.
 </b></i></span><br>
 
 ---
