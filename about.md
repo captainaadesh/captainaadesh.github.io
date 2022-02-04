@@ -5,11 +5,11 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 <center><a target="_blank" href="https://github.com/captainaadesh/Resume/blob/master/aadesh_resume.pdf">Resume</a></center>
 <hr/>
-<h6><b>AVID READER | TECHNOPHILE | INTROVERT | PYTHON AFICIONADO | WANNABE TECH ENTREPRENEUR |  SHUTTERBUG | MELOPHILE</b></h6>
+<h6><b>AVID READER | TECHNOPHILE | INTROVERT |  SHUTTERBUG | MELOPHILE</b></h6>
 <hr/>
 <h3>Hi,👋</h3>
-<p>Thank you for visiting my website. <br> I am <strong>Aadesh Mirajkar</strong>. Currently I am a final year undergrad at <a target="_blank" href="http://ghrcem.raisoni.net">GHRCEM, Pune.</a> I am doing major in Computer Science. Basically, I am from <a target="_blank" href="https://en.wikipedia.org/wiki/Latur">Latur</a> situated 
-in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra, India</a>. I am very much enthusiastic about building full fledged web applications using Python and it's frameworks(Flask, Django) while my interest lies in Product Management, DevOps and Blockchain. </p><p>I am kind of a minimalist person who loves keeping things very simple. I like things which I can see or feel, that's why I love <a href="https://github.com/captainaadesh">writing codes</a> because I can see it happening.</p>
+<p>Thank you for visiting my website. <br> I am <strong>Aadesh Mirajkar</strong>. Currently working as a Software Engineer at <a target="_blank" href="https://www.xoriant.com/">Xoriant</a> in Pune. Basically, I am from <a target="_blank" href="https://en.wikipedia.org/wiki/Latur">Latur</a> situated 
+in <a target="_blank" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra, India</a>. I am very much enthusiastic about building full fledged web applications using Python and it's frameworks(Flask, Django) while my interest lies in Product Management and Blockchain. </p><p>I am kind of a minimalist person who loves keeping things very simple. I like things which I can see or feel, that's why I love <a href="https://github.com/captainaadesh">writing codes</a> because I can see it happening.</p>
 
 <h4>I really believe in <a target="_blank" href="https://en.wikipedia.org/wiki/Reed_Hastings">Reed Hastings</a> thought...</h4>
 <span class="evidence"><i> Stone Age. Bronze Age. Iron Age. We define entire epics of humanity by the technology they use.
