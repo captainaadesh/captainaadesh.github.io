@@ -2,9 +2,10 @@
 name: Deploy React Portfolio
 
 on:
+  push:
+    branches:
+      - master
   workflow_dispatch:
-  repository_dispatch:
-    types: [portfolio-updated]
 
 permissions:
   contents: read
@@ -24,26 +25,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout React portfolio
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          repository: captainaadesh/portfolio-site
-          ref: main
-          path: source
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
-          cache-dependency-path: source/package-lock.json
 
       - name: Install dependencies
-        working-directory: source
         run: npm ci
 
       - name: Build React application
-        working-directory: source
         run: npm run build
 
       - name: Configure GitHub Pages
@@ -52,7 +46,7 @@ jobs:
       - name: Upload build files
         uses: actions/upload-pages-artifact@v3
         with:
-          path: source/dist
+          path: ./dist
 
       - name: Deploy website
         id: deployment
