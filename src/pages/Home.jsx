@@ -74,7 +74,7 @@ export default function Home() {
             className="mt-10 flex flex-wrap items-center gap-5"
           >
             <Link
-              to="/project"
+              to="/projects"
               className="inline-flex items-center gap-3
                 bg-black text-white dark:bg-white dark:text-black
                 px-7 py-4 rounded-full text-sm font-medium
