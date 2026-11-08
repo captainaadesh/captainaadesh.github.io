@@ -13,26 +13,9 @@ export default function Footer() {
         flex flex-col md:flex-row justify-between gap-6">
 
         <div>
-          <p className="text-lg font-semibold text-black dark:text-white">
-            AM.
-          </p>
           <p className="text-xs mt-2">
             Designed and built with ❤️ by Aadesh.
           </p>
-        </div>
-
-        <div className="flex items-center gap-6">
-          <a href="https://github.com/captainaadesh" target="_blank"
-            rel="noreferrer" aria-label="GitHub">
-            <Github size={19} />
-          </a>
-
-          <a href="https://www.linkedin.com/in/aadesh-mirajkar" target="_blank"
-            rel="noreferrer" aria-label="LinkedIn">
-            <Linkedin size={19} />
-          </a>
-
-        
         </div>
 
       </div>

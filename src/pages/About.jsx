@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import { SiSpotify, SiX} from "@icons-pack/react-simple-icons";
 import {
   ArrowUpRight,
   Mail,
@@ -42,13 +43,13 @@ const socialLinks = [
     name: "Twitter / X",
     handle: "@captainaadesh",
     url: "https://twitter.com/captainaadesh",
-    icon: Twitter,
+    icon: SiX,
   },
   {
     name: "Spotify",
     handle: "What I'm listening to",
     url: "https://open.spotify.com/user/31jtytdlkkfhijhnt5vmyfplgsf4",
-    icon: Music2,
+    icon: SiSpotify,
   },
   {
     name: "Goodreads",

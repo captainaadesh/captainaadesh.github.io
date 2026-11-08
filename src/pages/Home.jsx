@@ -1,6 +1,7 @@
 import { motion } from "motion/react";
-import { ArrowDownRight, ArrowUpRight, Github, Linkedin } from "lucide-react";
+import { ArrowDownRight, ArrowUpRight, Facebook, Github, Instagram, Linkedin, Twitter, TwitterIcon, X } from "lucide-react";
 import { Link } from "react-router-dom";
+import { SiSpotify, SiX } from "@icons-pack/react-simple-icons";
 
 const projects = [
   {
@@ -101,6 +102,28 @@ export default function Home() {
               rel="noreferrer" aria-label="LinkedIn">
               <Linkedin className="text-gray-400 hover:text-blue-500 transition" />
             </a>
+
+            <a href="https://www.instagram.com/captainaadesh" target="_blank"
+              rel="noreferrer" aria-label="Instagram">
+              <Instagram className="text-gray-400 hover:text-blue-500 transition" />
+            </a>
+
+
+            <a href="https://www.facebook.com/captainaadesh" target="_blank"
+              rel="noreferrer" aria-label="Facebook">
+              <Facebook className="text-gray-400 hover:text-blue-500 transition" />
+            </a>
+
+            <a href="https://x.com/captainaadesh" target="_blank"
+              rel="noreferrer" aria-label="X">
+              <SiX className="text-gray-400 hover:text-blue-500 transition" />
+            </a>
+
+            <a href="https://open.spotify.com/user/31jtytdlkkfhijhnt5vmyfplgsf4" target="_blank"
+              rel="noreferrer" aria-label="Spotify">
+              <SiSpotify className="text-gray-400 hover:text-blue-500 transition" />
+            </a>
+
           </motion.div>
 
         </div>
@@ -131,65 +154,6 @@ export default function Home() {
           ))}
         </motion.div>
       </section>
-
-      {/* SELECTED WORK */}
-
-      <section className="max-w-7xl mx-auto px-6 md:px-10 py-32">
-
-        <div className="flex justify-between items-end mb-16">
-          <div>
-            <p className="text-blue-500 text-sm mb-4">WHAT I DO</p>
-            <h2 className="text-4xl md:text-6xl
-              font-semibold tracking-tighter">
-              Selected work.
-            </h2>
-          </div>
-
-          <Link to="/project"
-            className="hidden md:flex items-center gap-2
-              text-sm hover:text-blue-500 transition">
-            All projects <ArrowUpRight size={17} />
-          </Link>
-        </div>
-
-        <div className="grid md:grid-cols-2 gap-6">
-          {projects.map((project, index) => (
-            <motion.div
-              key={project.number}
-              initial={{ opacity: 0, y: 40 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.7, delay: index * 0.15 }}
-              whileHover={{ y: -8 }}
-              className="group p-8 md:p-12 min-h-80
-                rounded-3xl bg-[#F5F5F5] dark:bg-[#1B1B1B]
-                transition-colors duration-300"
-            >
-              <div className="flex justify-between items-center mb-16">
-                <span className="text-sm text-gray-400">
-                  {project.number}
-                </span>
-                <ArrowUpRight className="text-gray-400
-                  group-hover:text-blue-500 transition" />
-              </div>
-
-              <h3 className="text-2xl md:text-3xl
-                font-semibold tracking-tight mb-4">
-                {project.title}
-              </h3>
-
-              <p className="text-gray-500 dark:text-gray-400 mb-6">
-                {project.description}
-              </p>
-
-              <p className="text-xs text-blue-500">
-                {project.tech}
-              </p>
-            </motion.div>
-          ))}
-        </div>
-      </section>
-
      
     </main>
   );
